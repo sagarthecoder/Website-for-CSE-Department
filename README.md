@@ -10,7 +10,9 @@ For windows user, you need to add laravel path to Environment variable . Follow 
 ## How to run my project
 
 ### Go to the folder application using cd or go to directly and run cmd or similar as cmd
-   - run  **composer install**
+   - run  
+    
+    - **composer install**
 - rename .env.example to .env
 ### Open .env file and change the database name. You can use like this
 - DB_CONNECTION=mysql <br/>
